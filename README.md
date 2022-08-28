@@ -1,6 +1,6 @@
 # Natures-Basket Clone
 
-This a Clone of a website [Natursbasket Website](https://www.naturesbasket.co.in/). This website deals in all selling of all sorts of groceries, Vegetables, Beverages and Kithcen essentials. As a Construct week individual project I was assigned to design this website with all the functionalities like the actual website in 5 days period.
+This a Clone of a website [Natursbasket Website](https://www.naturesbasket.co.in/). This website deals in selling of all sorts of groceries, Vegetables, Beverages and Kitchen essentials. As a Construct week individual project I was assigned to design this website with all the functionalities like the actual website in 5 days period.
 
  ## Tech Stack Used :-
 
